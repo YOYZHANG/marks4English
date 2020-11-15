@@ -1,12 +1,17 @@
-# 计划
+# PLAN
 
-### 打卡时间：周日
+### TIME: SUN
 
-### 打卡内容：
+### CONTENT
 
-- TED 演讲视频 1篇
-- 播客： THE AMERICAN LIFE 0.5篇
-- 单词： 25/week
+- TED： 1 PER WEEK
+- BOARD CAST： THE AMERICAN LIFE 0.5 PER WEEK
+- WORD: 25 PER WEEK
+
+
+### GOALS 4 THIS STEP
+
+- UNDSTAND THE MAIN CONTENT 
 
 
 
